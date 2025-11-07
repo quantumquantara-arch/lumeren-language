@@ -11,3 +11,4 @@ if __name__ == "__main__":
     print(f"\nInput: {text}")
     print(f"Glyphs: {' '.join(glyphs)}")
     print(f"κ-score: {score:.2f}")
+Add translation demo script
