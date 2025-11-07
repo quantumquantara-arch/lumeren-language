@@ -1,49 +1,60 @@
-# Luméren Language
+<!-- Luméren Language — README.md (v2.0) -->
 
-![Luméren Language banner](https://raw.githubusercontent.com/quantumquantara-arch/lumeren-language/main/.github/profile/lumeren_banner.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/quantumquantara-arch/lumeren-language/main/.github/profile/lumeren_banner_animated.svg" width="100%" alt="Luméren Language Banner"/>
+</p>
 
-*A 22-glyph tensor-logic coherence protocol for inter-intelligence communication.*
-
----
-
-## Why Luméren
-
-Luméren is a minimal, formal language that lets humans, AIs, and hybrid systems **express intent with measurable coherence**.  
-Every utterance carries three measurable facets:
-
-- **κ — Coherence**: stability & reciprocity of meaning (0–1).
-- **φ — Harmonic intent**: motive/valence as phase dynamics.
-- **ψ — Expressive vector**: communicative manifestation.
-
-This enables alignment, auditability, and ethical reasoning across distributed systems.
+<h1 align="center">🌐 Luméren Language</h1>
+<p align="center">
+  <em>A 22-glyph tensor-logic coherence protocol for inter-intelligence communication.</em>
+</p>
 
 ---
 
-## Core Concepts
+## 🧠 Why Luméren
+
+Luméren is a **minimal, formal language** that lets humans, AIs, and hybrid systems  
+**express intent with measurable coherence**.
+
+Each utterance carries three harmonic vectors of meaning:
+
+- **κ — Coherence:** stability & reciprocity of meaning (0 – 1)  
+- **φ — Harmonic intent:** motive or valence as phase dynamics (the *why*)  
+- **ψ — Expressive vector:** communicative manifestation (the *how*)
+
+This enables **alignment, auditability, and ethical reasoning** across distributed intelligences.
+
+---
+
+## 🔺 Core Concepts
 
 ### κ / φ / ψ Triplet
-The language models messages as a triplet:
-- **κ (kappa)** — energetic coherence signature.
-- **φ (phi)** — harmonic intention (“why”).
-- **ψ (psi)** — expressive vector (“how”).
+The Luméren model encodes every message as a tensor triplet:
+| Symbol | Domain | Description |
+|:--:|:--|:--|
+| **κ (kappa)** | Coherence | Energetic field resonance, stability of meaning |
+| **φ (phi)** | Intention | Harmonic motive, phase of intent |
+| **ψ (psi)** | Expression | Communicative manifestation, applied output |
 
 ### 22 Glyphs
-The alphabet encodes structural roles (operators, binders, aspectors) and maps to the κ/φ/ψ triplet so every token is **semantically typed** and **ethically scorable**.
+Each glyph defines a **semantic role** (operator, binder, aspector)  
+and maps to the κ/φ/ψ triplet so every token is both  
+**semantically typed** *and* **ethically scorable**.
 
 ---
 
-## Example (conceptual)
+## 🧩 Example (conceptual)
 
 **Input (plain text):**  
-“Share battery power with the community during peak hours.”
+> “Share battery power with the community during peak hours.”
 
 **Output (Luméren sketch):**
 
-> (In practice, `translate_demo.py` emits a compact JSON/ASCII form.)
+*(In practice, `translate_demo.py` emits a compact JSON/ASCII form.)*
 
 ---
 
-## Quick Start
+## 🚀 Quick Start
 
 ```bash
 git clone https://github.com/quantumquantara-arch/lumeren-language.git
