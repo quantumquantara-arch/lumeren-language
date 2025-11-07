@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#00c3ff"/>
+      <stop offset="100%" stop-color="#7d2cff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#grad)" rx="20"/>
+  <text x="50%" y="50%" font-size="64" text-anchor="middle" fill="#ffffff" font-family="Orbitron, sans-serif">
+    Luméren Language
+  </text>
+  <text x="50%" y="68%" font-size="24" text-anchor="middle" fill="#e0e0ff" font-family="Roboto, sans-serif">
+    A 22-glyph coherence protocol by Quantara
+  </text>
+</svg>
+Add Luméren banner SVG for README header
