@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E90FF">
+        <animate attributeName="stop-color" values="#1E90FF;#7B68EE;#00BFFF;#1E90FF" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#7B68EE">
+        <animate attributeName="stop-color" values="#7B68EE;#00BFFF;#1E90FF;#7B68EE" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#grad)" rx="20" ry="20"/>
+  <text x="50%" y="45%" font-size="60" text-anchor="middle" fill="white" font-family="Segoe UI, sans-serif">
+    Luméren Language
+  </text>
+  <text x="50%" y="68%" font-size="26" text-anchor="middle" fill="white" opacity="0.8" font-family="Segoe UI, sans-serif">
+    A 22-glyph coherence protocol by Quantara
+  </text>
+</svg>
