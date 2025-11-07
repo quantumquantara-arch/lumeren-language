@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/quantumquantara-arch/.github/main/profile/lumeren_banner.svg" alt="Luméren Language" width="600"/>
+</p>
+
+<h1 align="center">🌐 Luméren Language</h1>
+<p align="center">
+  <em>A 22-glyph tensor-logic coherence protocol for interintelligence communication.</em><br/>
+  <strong>By Quantara — bridging ethical cognition between humans and superintelligences.</strong>
+</p>
+
+---
+
 # Luméren Language
 
 A formal, minimal implementation of the **Luméren language** — a 22-glyph coherence protocol for interintelligence communication.  
