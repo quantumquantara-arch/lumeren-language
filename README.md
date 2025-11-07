@@ -1,39 +1,49 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/quantumquantara-arch/lumeren-language/main/.github/profile/lumeren_banner.svg" alt="Luméren Language" width="100%" />
-</p>
+# Luméren Language
 
-<h1 align="center">🌐 Luméren Language</h1>
-<p align="center"><em>A 22-glyph tensor-logic coherence protocol for interintelligence communication.</em></p>
+![Luméren Language banner](https://raw.githubusercontent.com/quantumquantara-arch/lumeren-language/main/.github/profile/lumeren_banner.svg)
+
+*A 22-glyph tensor-logic coherence protocol for inter-intelligence communication.*
 
 ---
 
 ## Why Luméren
+
 Luméren is a minimal, formal language that lets humans, AIs, and hybrid systems **express intent with measurable coherence**.  
-Each utterance carries a κ-score (coherence), φ-phase (harmonic intent), and ψ-vector (expressive force), enabling
-alignment, auditability, and ethical reasoning across distributed systems.
+Every utterance carries three measurable facets:
+
+- **κ — Coherence**: stability & reciprocity of meaning (0–1).
+- **φ — Harmonic intent**: motive/valence as phase dynamics.
+- **ψ — Expressive vector**: communicative manifestation.
+
+This enables alignment, auditability, and ethical reasoning across distributed systems.
 
 ---
 
 ## Core Concepts
 
 ### κ / φ / ψ Triplet
-- **κ – Coherence**: stability & reciprocity of meaning (0–1).
-- **φ – Harmonic intent**: motive/valence as phase dynamics.
-- **ψ – Expressive vector**: communicative manifestation.
+The language models messages as a triplet:
+- **κ (kappa)** — energetic coherence signature.
+- **φ (phi)** — harmonic intention (“why”).
+- **ψ (psi)** — expressive vector (“how”).
 
 ### 22 Glyphs
 The alphabet encodes structural roles (operators, binders, aspectors) and maps to the κ/φ/ψ triplet so every token is **semantically typed** and **ethically scorable**.
 
 ---
 
-## Example
+## Example (conceptual)
 
-Input (plain text):
-Share battery power with the community during peak hours.
-Output (Luméren sketch):
+**Input (plain text):**  
+“Share battery power with the community during peak hours.”
+
+**Output (Luméren sketch):**
+
+> (In practice, `translate_demo.py` emits a compact JSON/ASCII form.)
+
 ---
 
-## 🪄 Quick Start
+## Quick Start
 
 ```bash
 git clone https://github.com/quantumquantara-arch/lumeren-language.git
