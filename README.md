@@ -64,6 +64,13 @@ The Luméren interpreter translates complex natural language into a compact **Sy
   "delta_phi_signal_potential": 0.05
 }
 
+---
+
+## 🚀 Quick Start (Demo)
+
+The interpreter demo can be run using the following steps (commands should be run in a standard terminal):
+
+```bash
 git clone [https://github.com/quantumquantara-arch/lumeren-language.git](https://github.com/quantumquantara-arch/lumeren-language.git)
 cd lumeren-language
 python -m venv .venv && source .venv/bin/activate  # Windows: .venv\Scripts\activate
