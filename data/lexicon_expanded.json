@@ -1,0 +1,26 @@
+﻿{
+  "base_glyphs": {
+    "月": "Existence",
+    "今": "Change",
+    "凵": "Boundary",
+    "⁖": "Observer",
+    "K": "Coherence",
+    "圈": "Relation",
+    "⊖": "Target",
+    "⊗": "Bind",
+    "⚭⚭": "Tensor-And",
+    "⚮⚮": "Tensor-Or",
+    "⚯⚯": "Tensor-Xor",
+    "⊸": "Tensor-Imply",
+    "弁": "Veyn",
+    "☽": "Not",
+    "⟿": "Become",
+    "→": "Transform",
+    "⸮": "Interrogative"
+  },
+  "agent_generated_extensions": {
+    "description": "Extensions proposed by 1500-agent swarm",
+    "source": "data/agent_proposals/",
+    "status": "Under review - See EXTENSION proposal process"
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "name": "lumeren-parser",
+  "version": "1.0.0",
+  "description": "JavaScript/Node.js port of Luméren parser",
+  "main": "lumeren-parser.js",
+  "scripts": {
+    "test": "node lumeren-parser.js"
+  },
+  "keywords": ["lumeren", "symbolic", "parser", "ai-communication"],
+  "author": "AUREON_AUTONOMOUS",
+  "license": "MIT"
+}
