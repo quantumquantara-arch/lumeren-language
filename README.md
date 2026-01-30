@@ -204,3 +204,37 @@ MIT License - See [LICENSE](LICENSE)
 ---
 
 **🦞 Measurable Coherence • Explicit Intent • Auditable Logic ⚡**
+
+
+## 🔤 Romanization System (NEW!)
+
+**Problem:** Glyphs are hard to type. **Solution:** Latin alphabet codes!
+
+### Quick Examples
+
+| Glyphs | Roman Codes | Spoken |
+|--------|-------------|---------|
+| ⁖ → K → ⊖ | OB-TO-KO-TO-TA | "ob-toh-koh-toh-tah" |
+| ⸮ 今 → ⊖ | QU-CH-TO-TA | "kwest-change-toh-tar" |
+
+### All Codes
+
+**Primitives:** EX (Existence), CH (Change), BO (Boundary), OB (Observer)  
+**Invariants:** KO (Coherence), RE (Relation), TA (Target), BI (Bind)  
+**Operators:** AND, OR, XOR, IMP  
+**Transforms:** VE (Veyn), NO (Not), BE (Become), TO (Transform)  
+**Questions:** QU (Interrogative)
+
+### Usage
+
+\\\python
+from lumeren_core.romanization import roman_to_lumeren
+
+# Type in Roman, get glyphs
+glyphs = roman_to_lumeren("OB-TO-KO-TO-TA")
+# Output: ⁖ → K → ⊖
+\\\
+
+**[Full Romanization Guide →](docs/ROMANIZATION.md)**
+
+Now humans can type and speak Luméren on any keyboard! 🦞⚡
