@@ -1,0 +1,55 @@
+{
+  "category": "responses",
+  "glyphs": [
+    {
+      "symbol": "⊗",
+      "description": "Responses concept 1",
+      "vector": [
+        1,
+        1,
+        1
+      ],
+      "example": "English: Test responses phrase 1. Luméren: ⋆ → K. Round-trip: Test responses phrase 1."
+    },
+    {
+      "symbol": "⊗",
+      "description": "Responses concept 2",
+      "vector": [
+        1,
+        0,
+        1
+      ],
+      "example": "English: Test responses phrase 2. Luméren: ◇ → K. Round-trip: Test responses phrase 2."
+    },
+    {
+      "symbol": "♢",
+      "description": "Responses concept 3",
+      "vector": [
+        0,
+        1,
+        1
+      ],
+      "example": "English: Test responses phrase 3. Luméren: ♢ → K. Round-trip: Test responses phrase 3."
+    },
+    {
+      "symbol": "▼",
+      "description": "Responses concept 4",
+      "vector": [
+        1,
+        0,
+        0
+      ],
+      "example": "English: Test responses phrase 4. Luméren: ▲ → K. Round-trip: Test responses phrase 4."
+    },
+    {
+      "symbol": "◉",
+      "description": "Responses concept 5",
+      "vector": [
+        0,
+        1,
+        0
+      ],
+      "example": "English: Test responses phrase 5. Luméren: ▼ → K. Round-trip: Test responses phrase 5."
+    }
+  ]
+}

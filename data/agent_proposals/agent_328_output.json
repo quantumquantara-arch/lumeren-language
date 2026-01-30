@@ -1,0 +1,55 @@
+{
+  "category": "abstract concepts",
+  "glyphs": [
+    {
+      "symbol": "∞",
+      "description": "Abstract concepts concept 1",
+      "vector": [
+        0,
+        1,
+        0
+      ],
+      "example": "English: Test abstract concepts phrase 1. Luméren: ⋆ → K. Round-trip: Test abstract concepts phrase 1."
+    },
+    {
+      "symbol": "◇",
+      "description": "Abstract concepts concept 2",
+      "vector": [
+        1,
+        1,
+        0
+      ],
+      "example": "English: Test abstract concepts phrase 2. Luméren: ◇ → K. Round-trip: Test abstract concepts phrase 2."
+    },
+    {
+      "symbol": "⋆",
+      "description": "Abstract concepts concept 3",
+      "vector": [
+        0,
+        1,
+        0
+      ],
+      "example": "English: Test abstract concepts phrase 3. Luméren: ♢ → K. Round-trip: Test abstract concepts phrase 3."
+    },
+    {
+      "symbol": "⊗",
+      "description": "Abstract concepts concept 4",
+      "vector": [
+        0,
+        0,
+        1
+      ],
+      "example": "English: Test abstract concepts phrase 4. Luméren: ▲ → K. Round-trip: Test abstract concepts phrase 4."
+    },
+    {
+      "symbol": "▼",
+      "description": "Abstract concepts concept 5",
+      "vector": [
+        0,
+        1,
+        1
+      ],
+      "example": "English: Test abstract concepts phrase 5. Luméren: ▼ → K. Round-trip: Test abstract concepts phrase 5."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "category": "emotions",
+  "glyphs": [
+    {
+      "symbol": "▼",
+      "description": "Emotions concept 1",
+      "vector": [
+        0,
+        1,
+        1
+      ],
+      "example": "English: Test emotions phrase 1. Luméren: ⋆ → K. Round-trip: Test emotions phrase 1."
+    },
+    {
+      "symbol": "∞",
+      "description": "Emotions concept 2",
+      "vector": [
+        1,
+        1,
+        0
+      ],
+      "example": "English: Test emotions phrase 2. Luméren: ◇ → K. Round-trip: Test emotions phrase 2."
+    },
+    {
+      "symbol": "⊗",
+      "description": "Emotions concept 3",
+      "vector": [
+        1,
+        1,
+        0
+      ],
+      "example": "English: Test emotions phrase 3. Luméren: ♢ → K. Round-trip: Test emotions phrase 3."
+    },
+    {
+      "symbol": "◉",
+      "description": "Emotions concept 4",
+      "vector": [
+        1,
+        0,
+        0
+      ],
+      "example": "English: Test emotions phrase 4. Luméren: ▲ → K. Round-trip: Test emotions phrase 4."
+    },
+    {
+      "symbol": "∞",
+      "description": "Emotions concept 5",
+      "vector": [
+        0,
+        1,
+        1
+      ],
+      "example": "English: Test emotions phrase 5. Luméren: ▼ → K. Round-trip: Test emotions phrase 5."
+    }
+  ]
+}

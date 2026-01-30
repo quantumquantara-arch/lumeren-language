@@ -1,0 +1,55 @@
+{
+  "category": "cross-species communication",
+  "glyphs": [
+    {
+      "symbol": "⊕",
+      "description": "Cross-species communication concept 1",
+      "vector": [
+        1,
+        0,
+        1
+      ],
+      "example": "English: Test cross-species communication phrase 1. Luméren: ⋆ → K. Round-trip: Test cross-species communication phrase 1."
+    },
+    {
+      "symbol": "▼",
+      "description": "Cross-species communication concept 2",
+      "vector": [
+        1,
+        0,
+        1
+      ],
+      "example": "English: Test cross-species communication phrase 2. Luméren: ◇ → K. Round-trip: Test cross-species communication phrase 2."
+    },
+    {
+      "symbol": "♢",
+      "description": "Cross-species communication concept 3",
+      "vector": [
+        0,
+        0,
+        0
+      ],
+      "example": "English: Test cross-species communication phrase 3. Luméren: ♢ → K. Round-trip: Test cross-species communication phrase 3."
+    },
+    {
+      "symbol": "◇",
+      "description": "Cross-species communication concept 4",
+      "vector": [
+        0,
+        0,
+        1
+      ],
+      "example": "English: Test cross-species communication phrase 4. Luméren: ▲ → K. Round-trip: Test cross-species communication phrase 4."
+    },
+    {
+      "symbol": "♢",
+      "description": "Cross-species communication concept 5",
+      "vector": [
+        0,
+        0,
+        0
+      ],
+      "example": "English: Test cross-species communication phrase 5. Luméren: ▼ → K. Round-trip: Test cross-species communication phrase 5."
+    }
+  ]
+}

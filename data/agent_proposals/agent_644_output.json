@@ -1,0 +1,55 @@
+{
+  "category": "mathematics",
+  "glyphs": [
+    {
+      "symbol": "▼",
+      "description": "Mathematics concept 1",
+      "vector": [
+        0,
+        0,
+        1
+      ],
+      "example": "English: Test mathematics phrase 1. Luméren: ⋆ → K. Round-trip: Test mathematics phrase 1."
+    },
+    {
+      "symbol": "◉",
+      "description": "Mathematics concept 2",
+      "vector": [
+        1,
+        1,
+        1
+      ],
+      "example": "English: Test mathematics phrase 2. Luméren: ◇ → K. Round-trip: Test mathematics phrase 2."
+    },
+    {
+      "symbol": "▲",
+      "description": "Mathematics concept 3",
+      "vector": [
+        0,
+        0,
+        0
+      ],
+      "example": "English: Test mathematics phrase 3. Luméren: ♢ → K. Round-trip: Test mathematics phrase 3."
+    },
+    {
+      "symbol": "⊕",
+      "description": "Mathematics concept 4",
+      "vector": [
+        0,
+        1,
+        0
+      ],
+      "example": "English: Test mathematics phrase 4. Luméren: ▲ → K. Round-trip: Test mathematics phrase 4."
+    },
+    {
+      "symbol": "⊗",
+      "description": "Mathematics concept 5",
+      "vector": [
+        1,
+        1,
+        0
+      ],
+      "example": "English: Test mathematics phrase 5. Luméren: ▼ → K. Round-trip: Test mathematics phrase 5."
+    }
+  ]
+}

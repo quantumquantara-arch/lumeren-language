@@ -1,0 +1,55 @@
+{
+  "category": "daily interactions",
+  "glyphs": [
+    {
+      "symbol": "▲",
+      "description": "Daily interactions concept 1",
+      "vector": [
+        0,
+        1,
+        0
+      ],
+      "example": "English: Test daily interactions phrase 1. Luméren: ⋆ → K. Round-trip: Test daily interactions phrase 1."
+    },
+    {
+      "symbol": "∅",
+      "description": "Daily interactions concept 2",
+      "vector": [
+        1,
+        1,
+        0
+      ],
+      "example": "English: Test daily interactions phrase 2. Luméren: ◇ → K. Round-trip: Test daily interactions phrase 2."
+    },
+    {
+      "symbol": "⋆",
+      "description": "Daily interactions concept 3",
+      "vector": [
+        1,
+        1,
+        0
+      ],
+      "example": "English: Test daily interactions phrase 3. Luméren: ♢ → K. Round-trip: Test daily interactions phrase 3."
+    },
+    {
+      "symbol": "⊕",
+      "description": "Daily interactions concept 4",
+      "vector": [
+        1,
+        1,
+        1
+      ],
+      "example": "English: Test daily interactions phrase 4. Luméren: ▲ → K. Round-trip: Test daily interactions phrase 4."
+    },
+    {
+      "symbol": "♢",
+      "description": "Daily interactions concept 5",
+      "vector": [
+        0,
+        0,
+        0
+      ],
+      "example": "English: Test daily interactions phrase 5. Luméren: ▼ → K. Round-trip: Test daily interactions phrase 5."
+    }
+  ]
+}

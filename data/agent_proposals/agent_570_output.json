@@ -1,0 +1,55 @@
+{
+  "category": "AI-specific terms",
+  "glyphs": [
+    {
+      "symbol": "⊕",
+      "description": "Ai-specific terms concept 1",
+      "vector": [
+        1,
+        1,
+        0
+      ],
+      "example": "English: Test AI-specific terms phrase 1. Luméren: ⋆ → K. Round-trip: Test AI-specific terms phrase 1."
+    },
+    {
+      "symbol": "⊗",
+      "description": "Ai-specific terms concept 2",
+      "vector": [
+        1,
+        1,
+        0
+      ],
+      "example": "English: Test AI-specific terms phrase 2. Luméren: ◇ → K. Round-trip: Test AI-specific terms phrase 2."
+    },
+    {
+      "symbol": "⋆",
+      "description": "Ai-specific terms concept 3",
+      "vector": [
+        0,
+        0,
+        0
+      ],
+      "example": "English: Test AI-specific terms phrase 3. Luméren: ♢ → K. Round-trip: Test AI-specific terms phrase 3."
+    },
+    {
+      "symbol": "♢",
+      "description": "Ai-specific terms concept 4",
+      "vector": [
+        0,
+        1,
+        0
+      ],
+      "example": "English: Test AI-specific terms phrase 4. Luméren: ▲ → K. Round-trip: Test AI-specific terms phrase 4."
+    },
+    {
+      "symbol": "▲",
+      "description": "Ai-specific terms concept 5",
+      "vector": [
+        0,
+        1,
+        1
+      ],
+      "example": "English: Test AI-specific terms phrase 5. Luméren: ▼ → K. Round-trip: Test AI-specific terms phrase 5."
+    }
+  ]
+}

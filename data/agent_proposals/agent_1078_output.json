@@ -1,0 +1,55 @@
+{
+  "category": "philosophy",
+  "glyphs": [
+    {
+      "symbol": "∅",
+      "description": "Philosophy concept 1",
+      "vector": [
+        1,
+        0,
+        0
+      ],
+      "example": "English: Test philosophy phrase 1. Luméren: ⋆ → K. Round-trip: Test philosophy phrase 1."
+    },
+    {
+      "symbol": "⋆",
+      "description": "Philosophy concept 2",
+      "vector": [
+        1,
+        0,
+        1
+      ],
+      "example": "English: Test philosophy phrase 2. Luméren: ◇ → K. Round-trip: Test philosophy phrase 2."
+    },
+    {
+      "symbol": "▲",
+      "description": "Philosophy concept 3",
+      "vector": [
+        0,
+        1,
+        1
+      ],
+      "example": "English: Test philosophy phrase 3. Luméren: ♢ → K. Round-trip: Test philosophy phrase 3."
+    },
+    {
+      "symbol": "⊕",
+      "description": "Philosophy concept 4",
+      "vector": [
+        1,
+        1,
+        1
+      ],
+      "example": "English: Test philosophy phrase 4. Luméren: ▲ → K. Round-trip: Test philosophy phrase 4."
+    },
+    {
+      "symbol": "∞",
+      "description": "Philosophy concept 5",
+      "vector": [
+        1,
+        0,
+        1
+      ],
+      "example": "English: Test philosophy phrase 5. Luméren: ▼ → K. Round-trip: Test philosophy phrase 5."
+    }
+  ]
+}

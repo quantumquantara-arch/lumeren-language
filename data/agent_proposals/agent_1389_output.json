@@ -1,0 +1,55 @@
+{
+  "category": "queries",
+  "glyphs": [
+    {
+      "symbol": "▲",
+      "description": "Queries concept 1",
+      "vector": [
+        1,
+        1,
+        0
+      ],
+      "example": "English: Test queries phrase 1. Luméren: ⋆ → K. Round-trip: Test queries phrase 1."
+    },
+    {
+      "symbol": "◇",
+      "description": "Queries concept 2",
+      "vector": [
+        1,
+        0,
+        0
+      ],
+      "example": "English: Test queries phrase 2. Luméren: ◇ → K. Round-trip: Test queries phrase 2."
+    },
+    {
+      "symbol": "∞",
+      "description": "Queries concept 3",
+      "vector": [
+        1,
+        0,
+        0
+      ],
+      "example": "English: Test queries phrase 3. Luméren: ♢ → K. Round-trip: Test queries phrase 3."
+    },
+    {
+      "symbol": "♢",
+      "description": "Queries concept 4",
+      "vector": [
+        1,
+        0,
+        0
+      ],
+      "example": "English: Test queries phrase 4. Luméren: ▲ → K. Round-trip: Test queries phrase 4."
+    },
+    {
+      "symbol": "♢",
+      "description": "Queries concept 5",
+      "vector": [
+        1,
+        1,
+        1
+      ],
+      "example": "English: Test queries phrase 5. Luméren: ▼ → K. Round-trip: Test queries phrase 5."
+    }
+  ]
+}

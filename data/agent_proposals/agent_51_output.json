@@ -1,0 +1,55 @@
+{
+  "category": "ethics",
+  "glyphs": [
+    {
+      "symbol": "⊗",
+      "description": "Ethics concept 1",
+      "vector": [
+        1,
+        0,
+        0
+      ],
+      "example": "English: Test ethics phrase 1. Luméren: ⋆ → K. Round-trip: Test ethics phrase 1."
+    },
+    {
+      "symbol": "⋆",
+      "description": "Ethics concept 2",
+      "vector": [
+        0,
+        0,
+        1
+      ],
+      "example": "English: Test ethics phrase 2. Luméren: ◇ → K. Round-trip: Test ethics phrase 2."
+    },
+    {
+      "symbol": "⊗",
+      "description": "Ethics concept 3",
+      "vector": [
+        0,
+        0,
+        0
+      ],
+      "example": "English: Test ethics phrase 3. Luméren: ♢ → K. Round-trip: Test ethics phrase 3."
+    },
+    {
+      "symbol": "⊕",
+      "description": "Ethics concept 4",
+      "vector": [
+        1,
+        1,
+        1
+      ],
+      "example": "English: Test ethics phrase 4. Luméren: ▲ → K. Round-trip: Test ethics phrase 4."
+    },
+    {
+      "symbol": "◇",
+      "description": "Ethics concept 5",
+      "vector": [
+        0,
+        1,
+        0
+      ],
+      "example": "English: Test ethics phrase 5. Luméren: ▼ → K. Round-trip: Test ethics phrase 5."
+    }
+  ]
+}
