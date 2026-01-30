@@ -1,0 +1,4 @@
+﻿{
+  "category": "philosophy",
+  "task": "Generate 5 new glyph proposals for Luméren lexicon in philosophy, including symbol, description, vector representation (e.g., [1,0,1]), and example English translation round-trip test. Output as JSON."
+}
